@@ -20,6 +20,7 @@ To download the game, just tap on the green code button at the top, navigate to 
   
 <img width="601" height="409" alt="Screenshot 2025-11-05 at 4 29 57 PM" src="https://github.com/user-attachments/assets/e1254f76-b81b-4fd7-8b66-cca0b352b9f2" />
 
+
 3. Next compile all the files using the command: javac *.java (It may show some warnings, but those are just because of some archaic methods the StdDraw.java file is, it won't be a problem).
 4. Next run the game with the command: java Wordle
 - A window should pop up that looks like this:

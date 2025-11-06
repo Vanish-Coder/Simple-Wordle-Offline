@@ -1,6 +1,8 @@
-# simple-wordle
+# Simple Wordle
 
 A fun little remake of the classic...
+
+<img width="699" height="795" alt="Screenshot 2025-11-05 at 4 55 55 PM" src="https://github.com/user-attachments/assets/b066c3e1-b42a-46d0-a552-a6f70b533f7c" />
 
 
 # Guide (step by step):

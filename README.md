@@ -35,5 +35,5 @@ To download the game, just tap on the green code button at the top, navigate to 
 - You can choose your own words as well by putting a word in front of the "java Wordle show" command (i.e. to make the word "pizza", you should do: java Wordle show pizza)
 
 
-### Final Note:
+### Final Notes:
 - I will probably update this somewhat constantly (at least for a while), so any current bugs (I don't think they are any, but I could be wrong), will probably be patched soon.

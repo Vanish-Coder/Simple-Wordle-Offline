@@ -28,6 +28,7 @@ To download the game, just tap on the green code button at the top, navigate to 
 
 5. Enjoy!
 - You can press the "Reset" button to reset the board and the word you have to guess
+- Also the on-screen keyboard is not just for show, it actually works.
 
 ### Some simple command line "cheats":
 - Saying: java Wordle show during runtime (instead of: java Wordle) will show you the word that you need to guess for this turn (and the next ones).

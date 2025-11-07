@@ -13,8 +13,8 @@ public class Constants
 	{ 
 		"Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", 
 		  "A", "S", "D", "F", "G", "H", "J", "K", "L", 
-		"ENTER", "Z", "X", "C", "V", "B", "N", "M", "BACK",
-							"RESET"
+		"ENTER", "Z", "X", "C", "V", "B", "N", "M", "DELETE",
+							"RESET WORD"
 	};
 	
 	public static final int [] KEYS = 
@@ -31,4 +31,5 @@ public class Constants
 		{139, 102}, {198, 102}, {247, 102}, {296, 102}, {345, 102}, {394, 102}, {443, 102}, {492, 102}, {551, 102},
 													{345, 36}
 	};
+
 }

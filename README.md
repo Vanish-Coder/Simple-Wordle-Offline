@@ -32,7 +32,7 @@ A fun little remake of the classic (well technically, one change is you can play
 - Also the on-screen keyboard is not just for show, it actually works.
 
 ### Some simple command line "cheats":
-- Saying: java Wordle show during runtime (instead of: java Wordle) will show you the word that you need to guess for this turn (and the next ones).
+- Saying: java Wordle show during runtime (instead of java Wordle) will show you the word that you need to guess for this turn (and the next ones).
 - You can choose your own words as well by putting a word in front of the "java Wordle show" command (i.e. to make the word "pizza", you should do: java Wordle show pizza)
 
 

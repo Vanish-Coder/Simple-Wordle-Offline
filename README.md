@@ -12,7 +12,7 @@ A fun little remake of the classic (well technically, one change is you can play
 <img width="699" height="802" alt="Screenshot 2025-11-06 at 10 17 52 PM" src="https://github.com/user-attachments/assets/ccf2764f-8365-4c9c-b166-22df27b2b2a6" />
 
 ### Install the latest release for best experience (older releases will work fine as well, but they will have more bugs and less features obviously).
-### Also prereleases may often be ridden with bugs, so if you want a smoother experience, you should install the latest FULL release. However, playing the prereleases will give you funner releases, so as long as you don't mind bugs too much, check it out (plus it helps with bug testing 😃).
+### Also prereleases may often be ridden with bugs, so if you want a smoother experience, you should install the latest FULL release. However, playing the prereleases will give you funner gameplay, so as long as you don't mind bugs too much, check it out (plus it helps with bug testing 😃).
 
 ## Playing the Game:
 

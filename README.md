@@ -1,6 +1,7 @@
 ### Please note that StdDraw.java was not created by me and I only made a few tweaks to it to fit my program (StdDraw is a java library program).
 # Also note that this game is not sponsored or created by the New York Times (NYT), the company that owns Wordle.
-
+### Link to the official game: https://www.nytimes.com/games/wordle/index.html
+_____________________________________________________________________________________________________________________________________________________________
 # Simple Wordle
 
 A fun little remake of the classic (well technically, one change is you can play it without wifi 😃)...

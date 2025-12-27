@@ -20,7 +20,7 @@ A fun little remake of the classic (well technically, one change is you can play
 ### To play the game, do the following: 
 1. Go to the shell on your laptop. 
 
-Note that you need to have JDK installed. 
+You need to have Java/JDK installed for this to work.
 
 Installation Instructions:
 

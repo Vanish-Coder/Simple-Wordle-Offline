@@ -25,7 +25,7 @@ A fun little remake of the classic (well technically, one change is you can play
 Installation Instructions (note that Step 4 is only for Windows users and that Step 5 is optional, but is a good way to check if you are all setup):
 
 <img width="685" height="762" alt="Screenshot 2025-12-26 at 7 06 38 PM" src="https://github.com/user-attachments/assets/bd93bb84-93d5-4e42-b1e9-e5aaf5e8005f" />
-_____________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 2. Go to the directory with the code inside it (to do so, use the command: cd [file directory info]).
    - For example, assuming my game files were stored in Simple Wordle, in a manner like this (image below), I would enter in: cd Desktop/SimpleWordle

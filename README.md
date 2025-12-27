@@ -34,7 +34,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 3. Next compile all the files using the command: javac *.java (It may show some warnings, but those are just because of some archaic methods the StdDraw.java file is, it won't be a problem).
-______________________________________________________________________________________________
+_____________________________________________________________________________________
 4. Next run the game with the command: java Wordle
 - A window should pop up that looks like this:
 

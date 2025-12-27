@@ -31,12 +31,15 @@ ________________________________________________________________________________
    - For example, assuming my game files were stored in Simple Wordle, in a manner like this (image below), I would enter in: cd Desktop/SimpleWordle
   
 <img width="601" height="409" alt="Screenshot 2025-11-05 at 4 29 57 PM" src="https://github.com/user-attachments/assets/e1254f76-b81b-4fd7-8b66-cca0b352b9f2" />
+_____________________________________________________________________________________________________
 
 3. Next compile all the files using the command: javac *.java (It may show some warnings, but those are just because of some archaic methods the StdDraw.java file is, it won't be a problem).
+_____________________________________________________________________________________________________
 4. Next run the game with the command: java Wordle
 - A window should pop up that looks like this:
 
 <img width="692" height="793" alt="Screenshot 2025-11-06 at 10 17 21 PM" src="https://github.com/user-attachments/assets/7ce6d213-e93f-43b0-bc60-1096ec594e8a" />
+_____________________________________________________________________________________________________
 
 5. Enjoy 🔥!
 - You can press the "Reset" button to reset the board and the word you have to guess

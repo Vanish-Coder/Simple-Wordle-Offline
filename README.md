@@ -18,7 +18,14 @@ A fun little remake of the classic (well technically, one change is you can play
 ## Playing the Game:
 
 ### To play the game, do the following: 
-1. Go to the shell on your laptop.
+1. Go to the shell on your laptop. 
+
+Note that you need to have JDK installed. 
+
+Installation Instructions:
+
+<img width="685" height="762" alt="Screenshot 2025-12-26 at 7 06 38 PM" src="https://github.com/user-attachments/assets/bd93bb84-93d5-4e42-b1e9-e5aaf5e8005f" />
+
 2. Go to the directory with the code inside it (to do so, use the command: cd [file directory info]).
    - For example, assuming my game files were stored in Simple Wordle, in a manner like this (image below), I would enter in: cd Desktop/SimpleWordle
   
